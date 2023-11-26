@@ -1,9 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2023-11-26T22:13:46.029Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.4" etag="qW6mRxRWNgiTNQZiGSDn" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-26T22:20:13.770Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="rZ2L0s_FhiWASMCWtMzW" version="22.1.4" type="github">
   <diagram name="Page-1" id="JgJcodKUVycMhQDGq_6x">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1157" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LXA2BIxIRWTfsiPob7Z3-1" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="70" width="340" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="LXA2BIxIRWTfsiPob7Z3-2" value="Breakfast" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="200" y="100" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="LXA2BIxIRWTfsiPob7Z3-4" value="Recipe 1&lt;br&gt;N of portions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="140" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LXA2BIxIRWTfsiPob7Z3-7" value="Lunch" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="300" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="LXA2BIxIRWTfsiPob7Z3-6" value="Recipe 2&lt;br&gt;N of portions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="190" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LXA2BIxIRWTfsiPob7Z3-8" value="Recipe 3&lt;br&gt;N of portions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="390" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LXA2BIxIRWTfsiPob7Z3-9" value="Recipe 1&lt;br&gt;N of portions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="290" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LXA2BIxIRWTfsiPob7Z3-10" value="Recipe 2&lt;br&gt;N of portions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="340" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LXA2BIxIRWTfsiPob7Z3-11" value="Dinner" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="200" y="460" width="300" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="LXA2BIxIRWTfsiPob7Z3-12" value="Recipe 3&lt;br&gt;N of portions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="590" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LXA2BIxIRWTfsiPob7Z3-13" value="Recipe 1&lt;br&gt;N of portions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="490" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LXA2BIxIRWTfsiPob7Z3-14" value="Recipe 2&lt;br&gt;N of portions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="540" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LXA2BIxIRWTfsiPob7Z3-16" value="Total for X days" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="200" y="660" width="300" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="LXA2BIxIRWTfsiPob7Z3-18" value="Rice bulgur etc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="790" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LXA2BIxIRWTfsiPob7Z3-19" value="Meat" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="690" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LXA2BIxIRWTfsiPob7Z3-20" value="Diary - cheese milk&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="740" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LXA2BIxIRWTfsiPob7Z3-21" value="Other?&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="840" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LXA2BIxIRWTfsiPob7Z3-22" value="Other" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="890" width="280" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
